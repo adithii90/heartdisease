@@ -36,7 +36,4 @@ st.write(df.describe())
 
 # Footer
 st.success("Streamlit app running successfully!")
-Run it using:
-
-streamlit run app.py
 
