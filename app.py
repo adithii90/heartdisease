@@ -1,13 +1,6 @@
 
 
 
-heart.csv
-Spreadsheet
-
-heart-disease-predictions.ipynb
-File
-create me a simple streamlit file 
-
 # app.py
 import streamlit as st
 import pandas as pd
